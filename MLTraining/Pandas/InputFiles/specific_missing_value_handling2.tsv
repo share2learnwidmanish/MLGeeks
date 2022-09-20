@@ -1,0 +1,8 @@
+	order	sku	quantity	price	order_date
+0	1234	ABC1	10.0	###	2020-11-01
+hello	how	are	you 
+1	1235	ABC2	3.0	19.99	2020-11-02
+2	1236	ABC3	2.0	29.99	###
+3	1236	ABC3	2.0	29.99	$$$
+
+4	1236		2.0	29.99	$$$
